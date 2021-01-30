@@ -1,6 +1,8 @@
 [windows-commands](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands)
 pdf download
 
+another online learning website [ss64](https://ss64.com/nt/syntax-functions.html)
+
 ### how to
 1. try cmder or  cmd in vscode terminal
 2. type the file name `*.cmd`
